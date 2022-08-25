@@ -31,3 +31,12 @@ This should create a production bundle for your extension, ready to be zipped an
 ## Submit to the webstores
 
 The easiest way to deploy your Plasmo extension is to use the built-in [bpp](https://bpp.browser.market) GitHub action. Prior to using this action however, make sure to build your extension and upload the first version to the store to establish the basic credentials. Then, simply follow [this setup instruction](https://docs.plasmo.com/workflows#submit-your-extension) and you should be on your way for automated submission!
+
+
+#Figma Link
+
+UI Design
+https://www.figma.com/file/HzzA6jxlAjQzgivjyOgPQx/Tokopedia-Filter?node-id=0%3A1
+
+Prototype
+https://www.figma.com/proto/HzzA6jxlAjQzgivjyOgPQx/Tokopedia-Filter?page-id=0%3A1&node-id=3%3A6&viewport=783%2C344%2C0.16&scaling=scale-down-width&starting-point-node-id=3%3A6
