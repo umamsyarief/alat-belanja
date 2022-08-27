@@ -1,6 +1,17 @@
-#Figma Link
+This project is based on [Plasmo framework](https://plasmo.com/).
 
-UI Design :
+## Getting Started
+
+First, run the development server:
+
+```bash
+pnpm dev
+# or
+npm run dev
+```
+
+## Figma Link / UI Design
+
 https://www.figma.com/file/HzzA6jxlAjQzgivjyOgPQx/Tokopedia-Filter?node-id=58%3A341
 
 Prototype :
